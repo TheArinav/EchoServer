@@ -1,0 +1,3 @@
+/tmp/tmp.aIS3Iy7RgI/cmake-build-debug/CMakeFiles/Proj1.dir
+/tmp/tmp.aIS3Iy7RgI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.aIS3Iy7RgI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
